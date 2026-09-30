@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ComandService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/ComandService" />
+          </set>
+        </option>
+        <option name="myGradleHome" value="C:\Opensource\gradle-9.4.1" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Eureka" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Eureka" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/MiningService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/MiningService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ValidatorService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/ValidatorService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

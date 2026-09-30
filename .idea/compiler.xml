@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.46/a5cfe99fdf320e84955ef653f2ce1bf789d11385/lombok-1.18.46.jar" />
+        </processorPath>
+        <module name="MiningService.main" />
+        <module name="MiningService.test" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ComandService" options="-parameters" />
+      <module name="ComandService.main" options="-parameters" />
+      <module name="ComandService.test" options="-parameters" />
+      <module name="Eureka" options="-parameters" />
+      <module name="Eureka.main" options="-parameters" />
+      <module name="Eureka.test" options="-parameters" />
+      <module name="MiningService" options="-parameters" />
+      <module name="MiningService.main" options="-parameters" />
+      <module name="MiningService.test" options="-parameters" />
+      <module name="ValidatorService" options="-parameters" />
+      <module name="ValidatorService.main" options="-parameters" />
+      <module name="ValidatorService.test" options="-parameters" />
+    </option>
+  </component>
+</project>
